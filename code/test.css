@@ -1,0 +1,17 @@
+#h11 {
+  background-color: whitesmoke;
+}
+.odd {
+  /*.odd is an class in css*/
+  color: tomato;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: cyan dotted underline;
+  font-size: 18px;
+}
+.even {
+  /*.even is an class in css*/
+  color: orange;
+  font-family: cursive;
+}
