@@ -64,3 +64,20 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+a:link {
+  color: lawngreen;
+}
+a:visited {
+  color: gray;
+}
+a:hover {
+  color: aqua;
+}
+#a1 {
+  background-color: whitesmoke;
+  font-size: 100px;
+}
+li:nth-child(2n + 1) {
+  background-color: aliceblue;
+  font-size: 30px;
+}
