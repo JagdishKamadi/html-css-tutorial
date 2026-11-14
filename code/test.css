@@ -39,3 +39,15 @@ body {
   padding-left: 20px;
   padding-right: 4px;
 }
+#box1 {
+  border: 5px solid;
+  color: red;
+  margin: 50px;
+  border-color: blue;
+  font-size: 18px;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  background-color: whitesmoke;
+  padding: 50px;
+}
